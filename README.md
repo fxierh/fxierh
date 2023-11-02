@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Feilian Xie, a Redhatter</h1>
+<h1 align="center">Hi 👋, I'm Feilian Xie</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fxierh&label=Profile%20views&color=0e75b6&style=flat" alt="fxierh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fxierh" alt="fxierh" /></a> </p>
 
-- 🔭 I’m currently working on [Openshift/Hive](https://github.com/openshift/hive) and [Openshift/Cloud-Credential-Operator](https://github.com/openshift/cloud-credential-operator)
+- 🔭 I’m currently working on [Openshift/Hive](https://github.com/openshift/hive), [Openshift/Cloud-Credential-Operator](https://github.com/openshift/cloud-credential-operator) and [Openshift/Hypershift](https://github.com/openshift/hypershift)
 
 - 📫 How to reach me **fxie@redhat.com**
 
