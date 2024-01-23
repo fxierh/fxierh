@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 !</h1>
+<h1 align="center">👋</h1>
 
 <img src="https://github-profile-trophy.vercel.app?username=fxierh&theme=flat&column=9&row=1&margin-w=4&margin-h=8&no-bg=false&no-frame=false&order=4" height="90" alt="trophy graph"  />
 
