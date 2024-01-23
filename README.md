@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, PTAL !</h1>
 
-<img src="https://github-profile-trophy.vercel.app?username=fxierh&theme=flat&column=9&row=1&margin-w=4&margin-h=8&no-bg=false&no-frame=false&order=4" height="120" alt="trophy graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=fxierh&theme=flat&column=9&row=1&margin-w=4&margin-h=8&no-bg=false&no-frame=false&order=4" height="90" alt="trophy graph"  />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fxierh&show_icons=true&locale=en&layout=compact" height="200" alt="fxierh" />
