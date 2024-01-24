@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <picture align="center">
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
